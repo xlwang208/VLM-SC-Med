@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vlm-sc-med"
+version = "0.1.0"
+description = "Anonymous release: VLM-guided agentic semantic curation for CT cohorts"
+requires-python = ">=3.9"
+dependencies = [
+  "openai>=1.0.0",
+  "numpy",
+  "pillow",
+  "nibabel",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

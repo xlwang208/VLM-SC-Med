@@ -1,0 +1,4 @@
+volume_id,pred_labels
+case001,head
+case002,"chest,abdomen"
+case003,"abdomen,pelvis"

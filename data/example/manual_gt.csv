@@ -1,0 +1,4 @@
+volume_id,manual_labels
+case001.nii.gz,head
+case002.nii.gz,"chest,abdomen"
+case003.nii.gz,pelvis
