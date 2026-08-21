@@ -7,7 +7,7 @@ This repository contains an **anonymized, cleaned** implementation of the core p
 
 ## 🏗 Pipeline Overview
 
-![Pipeline](figures/pipeline.png)
+![Pipeline](figures/workshopflow.png)
 
 
 ## 📂 What is included
