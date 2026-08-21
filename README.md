@@ -1,8 +1,6 @@
-# Anonymous Code Release: VLM-SC-Med
+# VLM-SC-Med
 
-This repository contains an **anonymized, cleaned** implementation of the core pipeline described in the accompanying MICCAI submission:
-
-**Vision-Language Model Guided Semantic Curation for Large-Scale Medical Data Cohorts**
+Vision-Language Model Guided Semantic Curation for Large-Scale Medical Data Cohorts
 
 
 ## 🏗 Pipeline Overview
